@@ -1,0 +1,44 @@
+{
+	"name": "Garlic Bread",
+	"picture": "images/GarlicBread.jpg",
+	"servings": 4,
+	"difficulty": "Easy",
+	"ingredientsNumber": 5,
+	"cookTimeHours": "~",
+	"cookTimeMinutes": 30,
+	"calories": "120",
+	"rating": "&#9733; &#9733; &#9733; &#9733; &#9733;",
+	"description": [
+		"It goes with everything. (Yes, everything.) It can satisfy even the pickiest of eaters. It’s a scene-stealing side. It’s—you guessed it—garlic bread.",
+		
+		"Make your life a little easier with our super easy, super delicious garlic bread recipe. We’re giving this recipe bonus points for how easy it is to make. The garlic bread’s two-minute prep time wins over every cook, every time."
+	],
+	"originalIngredientsAmount": [
+		4,
+		2,
+		1,
+		"",
+		""
+	],
+	"originalIngredientsMeasurement": [
+		"tablespoons",
+		"cloves",
+		"loaf",
+		"",
+		""
+	],
+	"recipeIngredientsName": [
+		"melted butter",
+		"garlic (grated)",
+		"of French bread",
+		"parmesan",
+		"fresh parsley"
+	],
+	"recipeDirectionsSteps": [
+		"Mix 4 Tbsp. melted butter and 2 cloves grated garlic in a bowl.",
+		
+		"Cut 1 French bread loaf in half lengthwise, and brush with butter-garlic mixture.",
+		
+		"Bake at 350˚F for 15 minutes. Top with Parmesan and chopped fresh parsley."
+	]
+}

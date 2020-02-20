@@ -1,0 +1,50 @@
+{
+	"name": "Green Salad With Craisins",
+	"picture": "images/GreenSaladWithCraisinsAndPoppyseedDressing2.jpg",
+	"servings": 4,
+	"difficulty": "Easy",
+	"ingredientsNumber": 7,
+	"cookTimeHours": "~",
+	"cookTimeMinutes": 20,
+	"calories": "610",
+	"rating": "&#9733; &#9733; &#9733; &#9733; &#9733;",
+	"description": [
+		"This salad is a family favorite and it’s usually the first thing gone when it shows up at a party. All the ingredients combined make such a flavorful salad full of different textures.",
+		
+		"This salad quickly and easily comes together. Put everything in a large bowl and mix together. That’s it! This salad is so yummy with the craisins and poppyseed dressing together."
+	],
+	"originalIngredientsAmount": [
+		1,
+		0.66,
+		0.5,
+		2,
+		0.75,
+		1,
+		8
+	],
+	"originalIngredientsMeasurement": [
+		"bag",
+		"cup",
+		"cup",
+		"",
+		"cup",
+		"can",
+		"ounces"
+	],
+	"recipeIngredientsName": [
+		"romaine lettuce",
+		"dried cranberries",
+		"cashews",
+		"red apples (diced)",
+		"swiss cheese (shredded)",
+		"mandarin oranges (drained)",
+		"salad dressing (poppyseed)"	
+	],
+	"recipeDirectionsSteps": [
+		"Prepare salad right before you plan to serve it.",
+		
+		"To prepare, place lettuce in a large bowl and top with craisins, cashews, apples, cheese, and oranges. Stir together.",
+		
+		"Pour salad dressing over salad and toss together. Serve immediately."
+	]
+}

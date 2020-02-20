@@ -1,0 +1,77 @@
+{
+	"name": "Crockpot Chilli",
+	"picture": "images/Slow-Cooker-Turkey-Chili.jpg",
+	"servings": 6,
+	"difficulty": "Moderate",
+	"ingredientsNumber": 12,
+	"cookTimeHours": 6,
+	"cookTimeMinutes": 25,
+	"calories": "~",
+	"rating": "&#9733; &#9733; &#9733; &#9733; &#9734;",
+	"description": [ 
+		"This Crockpot Chili recipe is loaded with ground beef, seasonings and tons of flavor. It simmers all day in the slow cooker creating a great meal that everyone loves!",
+		
+		"Serve it with crusty bread and garlic Butter for dipping and scooping. Add in a side salad and you’ve got a complete meal that everyone will be raving about!"
+	],
+	"originalIngredientsAmount": [
+		2,
+		1,
+		1,
+		4,
+		1,
+		1,
+		2,
+		2,
+		2,
+		2,
+		1,
+		0.5
+	],
+	"originalIngredientsMeasurement": [
+		"tbsp.",
+		"cup",
+		"cup",
+		"tbsp.",
+		"tsp.",
+		"lb",
+		"can",
+		"can",
+		"can",
+		"can",
+		"cup",
+		"cup"
+	],
+	"recipeIngredientsName": [
+		"cooking oil",
+		"onioin",
+		"chopped peppers",
+		"Chili powder",
+		"Hot chili powder (optional)",
+		"ground beef or chicken",
+		"Red Beans",
+		"Kidney Beans",
+		"Tomato Puree",
+		"Tomato Sauce",
+		"shredded cheese (optional)",
+		"sour cream (optional)"	
+	],
+	"recipeDirectionsSteps": [
+		"Heat cooking oil in 2 quart skillet.",
+		
+		"Saute onions and peppers for 5 minutes.",
+		
+		"Add spices and stir for 30 seconds.",
+		
+		"Add meat and cook until browned. Approximately 15 minutes.",
+		
+		"Pour contents of skillet into 3 quart crock pot.",
+		
+		"Rinse beans and place in crockpot.",
+		
+		"Open and pour Tomato puree and sauce into crock pot.",
+		
+		"Cover crockpot and cook on low for 6 hours.",
+		
+		"Serve into individual bowls and top with sour cream and cheese."
+	]
+}
